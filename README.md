@@ -1,4 +1,4 @@
-# Reminder-app
+# Calendar-app
 Holiday and Birthday Reminder – Python
 
 This application helps in reminding and notifying your 
